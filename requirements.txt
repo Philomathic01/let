@@ -4,4 +4,3 @@ pandas==2.2.2
 numpy==2.1.1
 scikit-learn==1.2.0
 pillow>=8.4.0 --prefer-binary
-distutils-pytest 0.2.1
